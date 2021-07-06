@@ -96,7 +96,7 @@ const loginUser = async( req, res = response ) => {
 
 }
 
-const renewToken = async( req, res = responsees ) => {
+const renewToken = async( req, res = responses ) => {
 
     const { uid, name } = req;
 
