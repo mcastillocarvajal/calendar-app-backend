@@ -20,5 +20,9 @@
     "moment": "^2.29.1",
     "mongoose": "^5.13.1",
     "nodemon": "^2.0.8"
+  },
+  "optionalDependencies": {
+    "fsevents": "2.1.2"
   }
 }
+
